@@ -1,4 +1,4 @@
-# 
+# Nouveau JetBrains Rider outils pour Mac OS | Léger JetBrains Rider outils pour PC Windows. Avec builds multiplateformes et profileur — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
